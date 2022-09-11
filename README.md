@@ -1,4 +1,4 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Activity+Graph+📈;&center=true&vCenter=true&pause=500&width=800&height=45" width="100%" /> 
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Welcome+To+My+Github+Profile+⚡;&center=true&vCenter=true&pause=500&width=800&height=45" width="100%" /> 
 
 ![snake gif](https://raw.githubusercontent.com/nicholashuber/nicholashuber/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/nicholashuber/nicholashuber/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
