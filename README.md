@@ -1,17 +1,8 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Activity+Graph+📈;&center=true&vCenter=true&pause=500&width=800&height=45" width="100%" /> 
 
+![snake gif](https://raw.githubusercontent.com/nicholashuber/nicholashuber/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/nicholashuber/nicholashuber/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 ![Nicholashuber's github activity graph](https://activity-graph.herokuapp.com/graph?username=nicholashuber&theme=chartreuse-dark&custom_title=Contribution%20Graph&bg_color=fdf6e3&color=859900&line=b58900&hide_boder=true)
 
 | <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=nicholashuber&show_icons=true&include_all_commits=true&theme=solarized-light&hide_border=true&custom_title=My%20Github%20Stats" alt="My Github Stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholashuber&layout=compact&theme=solarized-light&hide_border=true&langs_count=10&custom_title=My%20Top%20Languages" alt="Top Languages"/></a> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-![snake gif](https://raw.githubusercontent.com/nicholashuber/nicholashuber/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/nicholashuber/nicholashuber/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nicholashuber&hide_border=true&theme=solarized-dark&hide_title=true&range=last_7_days" alt="Activities This Week" /> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicholashuber&repo=casper-client-rs&theme=swift)](https://github.com/nicholashuber/casper-client-rs) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicholashuber&repo=cargo-casper&theme=swift)](https://github.com/nicholashuber/https://github.com/casper-ecosystem/cargo-casper) |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicholashuber&repo=casper-js-sdk&theme=buefy)](https://github.com/casper-ecosystem/casper-js-sdk) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicholashuber&repo=casper-contracts-js-clients&theme=buefy)](https://github.com/casper-network/casper-contracts-js-clients) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
