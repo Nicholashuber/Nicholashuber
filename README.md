@@ -1,11 +1,24 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=⚡+Welcome+To+My+Github+Profile+⚡;&center=true&vCenter=true&pause=500&width=800&height=45" width="100%" /> 
+<h3> Hi there 👋🏼, I'm Nick Huber. I also go by Lavasocks! </h3>
 
-![snake gif](https://raw.githubusercontent.com/nicholashuber/nicholashuber/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/nicholashuber/nicholashuber/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+#### 📃 About me
+- 👨🏻‍💻  &nbsp;Software Engineer.
+- 👨🏻‍🔬  &nbsp;Experimenting with technologies.
+- 🤗  &nbsp;Open-source enthusiast.
+- 🎮  &nbsp;Retro gamer
+- 🚀  &nbsp;Reach me [at] [Huber.dev](https://huber.dev)
 
-<!--
-![Nicholashuber's github activity graph](https://activity-graph.herokuapp.com/graph?username=nicholashuber&theme=xcode&custom_title=Contribution%20Graph&hide_boder=true)
--->
+#### ✨ What I've been dabbling in
+- Developing with LangChain and AI. Pinecone is a cool database!
+- [Writing blog posts](https://huber.dev/categories/blog/)
+- Learning React Native for IOS & Android Development
+- Developing/Writing code for
+  - [Questworld.org a 2D RETRO MMORPG](https://questworld.org)
+  - [LinktoCalendar.com a service & api to add Events to Google Calendar, Outlook, iCal](https://linktocalendar.com)
+  - [InitRoom.com a Video Meeting App](https://initroom.com)
+  - [DashDo.app IOS & Android App](https://dashdo.app)
+  - [GotObjects.com a webcam object detection game](https://gotobjects.com)
+  
 
+#### Github Stats
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=nicholashuber&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&custom_title=My%20Github%20Stats" alt="My Github Stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholashuber&layout=compact&theme=tokyonight&count_private=true&hide_border=true&langs_count=10&custom_title=My%20Top%20Languages" alt="Top Languages"/></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicholashuber&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicholashuber&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicholashuber&theme=2077)
