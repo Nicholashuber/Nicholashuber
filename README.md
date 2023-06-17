@@ -1,4 +1,4 @@
-<h3> Hi there 👋🏼, I'm Nick Huber. I also go by Lavasocks! </h3>
+<h3> Hi there 👋🏼, I'm Nick Huber. <br>I also go by Lavasocks! </h3>
 
 #### 📃 About me
 - 👨🏻‍💻  &nbsp;Software Engineer.
