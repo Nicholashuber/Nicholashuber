@@ -55,7 +55,7 @@ As a **5x Certified Salesforce Developer**, I specialize in crafting robust, ful
   - [**GotObjects.com**](https://gotobjects.com) – A webcam object detection game
 
 ---
-
+<!--
 ### 📈 **GitHub Stats**
 
 <p align="center">
@@ -65,12 +65,12 @@ As a **5x Certified Salesforce Developer**, I specialize in crafting robust, ful
 </p>
 
 ---
-
+-->
 ### 📫 **Get in Touch**
 
 - **Website:** [huber.dev](https://huber.dev)
-- **Email:** [you@example.com](mailto:you@example.com) <!-- Replace with your email -->
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile) <!-- Replace with your LinkedIn profile -->
+- **Email:** [nick@huber.dev](mailto:nick@huber.dev) <!-- Replace with your email -->
+- **LinkedIn:** [linkedin.com/in/nicholas-huber](https://www.linkedin.com/in/nicholas-huber) <!-- Replace with your LinkedIn profile -->
 - **GitHub:** [github.com/nicholashuber](https://github.com/nicholashuber)
 
 ---
@@ -79,7 +79,7 @@ As a **5x Certified Salesforce Developer**, I specialize in crafting robust, ful
 
 *Ready to elevate your business? Let's collaborate to transform your ideas into reality.*
 
-[📩 Get in Touch](mailto:you@example.com) <!-- Replace with your email -->
+[📩 Get in Touch](mailto:nick@huber.dev) <!-- Replace with your email -->
 
 ---
 
