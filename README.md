@@ -1,76 +1,59 @@
-# Hi there 👋🏼, I'm Nick Huber (aka Lavasocks)
+# 👋 Hey, I’m Nick Huber
+
+Welcome to my corner of GitHub — where software meets strategy.
 
 ---
 
-### 🚀 **Versatile Full-Stack Developer & Technology Consultant**
+## 💼 About Me
 
-I transform ideas into reality through code. As a highly skilled **Full-Stack Developer and Tech Consultant**, I specialize in crafting robust, scalable solutions that drive business growth and efficiency. With mastery over a vast array of programming languages and platforms, I've empowered over **100 clients** by enhancing their operations and streamlining workflows.
+I'm a lead software engineer, AI consultant, and founder of [Niche.dev](https://niche.dev) — an AI integration agency helping businesses unlock the full power of automation, natural language processing, and intelligent workflows.
 
----
+With over a decade of hands-on experience, I specialize in building high-impact systems for business development, onboarding, and internal tools — especially in the Salesforce ecosystem and beyond.
 
-### 🛠 **What I Can Do for You**
-
-#### **End-to-End Development**
-
-*Bringing your vision to life, no matter the platform or language.*
-
-- **Custom Web & Mobile Applications**
-- **Full-Stack Development (Frontend & Backend)**
-- **Cross-Platform Solutions**
-- **Performance Optimization**
-- **Cloud Deployment & Management**
-
-#### **Systems Integration**
-
-*Seamlessly connecting diverse systems to work in harmony.*
-
-- **API Development & Integration**
-- **Third-Party Service Integration**
-- **Automation with Tools like Twilio, Stripe, etc.**
-- **Data Migration & Synchronization**
-- **Custom Integration Solutions**
-
-#### **Technology Consulting**
-
-*Strategic guidance to leverage technology for maximum impact.*
-
-- **Project Planning & Architecture**
-- **Technology Stack Recommendations**
-- **Scalability & Security Consulting**
-- **Process Automation**
-- **Ongoing Support & Maintenance**
-
----
-<!--
-### 📈 **GitHub Stats**
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicholashuber&theme=2077" alt="Profile Details" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicholashuber&theme=2077" alt="Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicholashuber&theme=2077" alt="Most Commit Language" />
-</p>
-
----
--->
-### 📫 **Get in Touch**
-
-- **Website:** [huber.dev](https://huber.dev)
-- **Email:** [nick@huber.dev](mailto:nick@huber.dev) <!-- Replace with your email -->
-- **LinkedIn:** [linkedin.com/in/nicholas-huber](https://www.linkedin.com/in/nicholas-huber) <!-- Replace with your LinkedIn profile -->
-- **GitHub:** [github.com/nicholashuber](https://github.com/nicholashuber)
+I believe great software solves real problems and empowers people. I build fast, think big, and ship smart.
 
 ---
 
-### ✨ **Let's Work Together**
+## ⚙️ What I Do
 
-*Ready to elevate your business? Let's collaborate to transform your ideas into reality.*
+- 🔁 **AI Automation & Integration**  
+  Custom GPT tools, intelligent texting systems, and AI-assisted decision-making in Salesforce and web apps.
 
-[📩 Get in Touch](mailto:nick@huber.dev) <!-- Replace with your email -->
+- 📈 **Business Productivity Tools**  
+  Creator of **BD Mobile** – a Salesforce-like mobile app designed for field reps to operate at peak performance.
+
+- 💡 **SaaS Projects**  
+  Building products that help businesses onboard, train, and communicate faster — like automated HR portals and real-time AI roleplay trainers.
+
+- 🤖 **Developer Mentorship & Tools**  
+  From "vibe coding" for beginners to full-blown system architecture — I love teaching and empowering devs at all levels.
 
 ---
 
-### 🎮 **Fun Fact**
+## 🧠 Currently Focused On
 
-When I'm not coding, you might find me indulging in some retro gaming. 🎮
+- 🔨 Building AI-powered SaaS products that actually deliver ROI
+- 📱 Scaling Mobile Apps for real-world business development workflows
+- 🧰 Teaching people to build smart with tools like SvelteKit, Supabase, and Salesforce
+- 🛰️ Vectorizing apps and data to make everything searchable and actionable
 
 ---
+
+## 🧭 Philosophy
+
+> *"A senior dev should solve any problem, not just the one assigned."*
+
+I live by this. I'm not afraid to roll up my sleeves, dig into new tech, or lead teams through complexity. I care about clarity, autonomy, and momentum. Great code should *move the business*.
+
+---
+
+## 🔗 Let’s Connect
+
+- 🌐 Website: [niche.dev](https://niche.dev)
+- 🧠 AI Consulting: [niche.dev](https://niche.dev)
+- 🛠️ Projects & Experiments: [github.com/lavasocks](https://github.com/lavasocks)
+- 📬 Reach Out: DM me or open an issue — always down to talk shop or collab
+
+---
+
+**Built with coffee, curiosity, and a belief that software should feel like magic.**
